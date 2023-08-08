@@ -32,3 +32,4 @@ dependencyResolutionManagement {
 include(":app")
 include(":shared-test")
 include("same")
+another way to take it
